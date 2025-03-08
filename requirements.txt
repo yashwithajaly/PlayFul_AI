@@ -1,0 +1,4 @@
+tkinter
+chess
+python-chess
+google-generativeai
