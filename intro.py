@@ -4,7 +4,7 @@ import random
 import re
 
 # Configure Gemini API Key
-genai.configure(api_key="AIzaSyCKTHB6eTWJcLKxDFNW0-FobprIivOdUfA")
+genai.configure(api_key="Your api key")
 
 # List of models and prompts
 MODELS = [
