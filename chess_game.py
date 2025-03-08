@@ -6,7 +6,7 @@ import random
 import google.generativeai as genai
 
 # Configure Gemini API Key (replace with your actual key)
-genai.configure(api_key="AIzaSyBVTH5GZUW3ieg9WZQadpoXVAv0afWkaNs")
+genai.configure(api_key="Your api key")
 
 # Lc0 engine path
 ENGINE_PATH = "/usr/local/bin/lc0"
