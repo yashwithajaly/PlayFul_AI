@@ -1,2 +1,5 @@
-# PlayFul_AI
-This project creates an AI-powered board game opponent and advisor that adapts to skill levels, ensuring an engaging challenge. The AI offers real-time strategic guidance, helping players improve. It enhances gameplay by acting as both a competitor and mentor, making board games more dynamic, fun, and personalized.
+This project aims to develop an AI-powered system that brings intelligent, adaptive opponents and strategic advisors to board games. The AI will adjust to different skill levels, ensuring an engaging and competitive experience for all players. Casual users can easily find suitable opponents, while the AI also provides strategic guidance to help players refine their skills and make smarter moves.  
+
+For those looking to customize their AI opponent, different playstyles can be integrated. To run this code install Lc0 manually with aggressive weights for an attacking style ([Download Here](http://training.lczero.org/get_network?sha=d0ed346c32fbcc9eb2f0bc7e957d188c8ae428ee3ef7291fd5aa045fc6ef4ded)) or opt for **defensive weights** for a more cautious approach ([Download Here](http://storage.lczero.org/files/networks-contrib/)).And by default balanced weights get downloaded with Lc0.
+
+With AI-driven adaptability and strategic depth, this project enhances gameplay, making board games more immersive, dynamic, and enjoyable for everyone.
